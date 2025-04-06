@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Marília. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. 
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Marília. Constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. 
   
 
 ###
@@ -37,8 +37,4 @@
 
 #
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AColavite/Acolavite/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AColavite/Acolavite/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AColavite/AColavite/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/AColavite/AColavite/blob/output/github-contribution-grid-snake.svg)
