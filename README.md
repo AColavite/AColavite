@@ -26,10 +26,7 @@
     style="display:block; margin:auto; margin-top:10px;" 
   />
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AColavite&theme=dracula&show_icons=true&hide_border=false&layout=compact"
-    style="display:block; margin:auto; margin-top:10px;" 
+
   />
 </div>
 
