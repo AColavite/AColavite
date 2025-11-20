@@ -8,18 +8,33 @@
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Marília. Constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. 
   
-
 ###
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-    ![AColavite's Stats](https://github-readme-stats.vercel.app/api?username=AColavite&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-    ![AColavite's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AColavite&theme=dracula&hide_border=false)
-    ![AColavite's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AColavite&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+  <!-- Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AColavite&theme=dracula&show_icons=true&hide_border=false&count_private=true"
+    style="display:block; margin:auto;" 
+  />
+
+  <!-- Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AColavite&theme=dracula&hide_border=false"
+    style="display:block; margin:auto; margin-top:10px;" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AColavite&theme=dracula&show_icons=true&hide_border=false&layout=compact"
+    style="display:block; margin:auto; margin-top:10px;" 
+  />
 </div>
 
-###
+
+
 
 **Connect with me:** 
 
@@ -31,9 +46,14 @@
 
 **Currently working with:**
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />                             <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />                                       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-                               
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+<!-- Devicon icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50" style="filter: invert(1);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+
 
 #
 
-![snake gif](https://github.com/AColavite/AColavite/blob/output/github-contribution-grid-snake-dark.svg)
